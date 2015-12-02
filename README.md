@@ -1,4 +1,6 @@
-# GameProjectII
+# Strawberry-milk Engine
+Strawberry-milk engine is simple game engine created in Project II class at Keimyung University, South Korea.
+This Engine is create in C++.
 ## Repository Architecture
 ![alt text](https://github.com/nvareille/GameProjectII/blob/master/Architecture.png "Repository's Architecture")
 ## How to commit ?
